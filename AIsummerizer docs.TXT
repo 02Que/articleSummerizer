@@ -1,0 +1,13 @@
+#bootstraping this app using: 
+vitejs.dev
+#needed dependancies(installing them using [npm install]):
+@reduxjs/toolkit
+react-redux
+#using tailwindcss for styling purposes:
+install tailwind for vite
+initialize tailwind
+configure template path
+*all the above steps are found in tailwind site
+#use(npm run dev): to boot the application
+#making API requests to article summirezer API from rapidAPI
+#use react-redux for api calls
